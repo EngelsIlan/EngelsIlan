@@ -56,13 +56,6 @@ Overige: Alpine
 
 ---
 
-## 📊 GitHub Stats
-
-![Ilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngelsIlan&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngelsIlan&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilan-engels)
