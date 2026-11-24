@@ -51,8 +51,10 @@
 
 **Networking & Firewalls**  
 ![firewall-cmd](https://img.shields.io/badge/firewall--cmd-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![SELinux](https://img.shields.io/badge/firewall--cmd-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![ufw](https://img.shields.io/badge/ufw-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![nftables](https://img.shields.io/badge/nftables-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
+![iptables](https://img.shields.io/badge/nftables-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
