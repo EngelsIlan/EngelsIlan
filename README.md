@@ -1,6 +1,7 @@
 # Hey, ik ben Ilan 👋
 
-🎓 3de jaar **Toegepaste Informatica – Systeem- & Netwerkbeheer** @ HoGent  
+🎓 Afgestudeerde Bachelor **Toegepaste Informatica – Systeem- & Netwerkbeheer** @ HoGent  
+🎓 2de Jaar Bachelor **Cybersecurity** @ HoWest
 🔐 Gepassioneerd door cybersecurity, scripting en systeembeheer  
 🌍 België | °2005  
 
